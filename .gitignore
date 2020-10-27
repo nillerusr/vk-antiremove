@@ -2,3 +2,4 @@ __pycache__/
 *.pyc
 messages.db
 deleted.db
+info.json
